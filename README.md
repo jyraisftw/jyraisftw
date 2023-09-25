@@ -1,9 +1,8 @@
 I'm jyraisftw, a web developer, and on this GitHub profile, I develop various projects using technologies like HTML, CSS, Tailwind CSS, Bootstrap, and ReactJS. Here are some highlights you can find on my profile:
 
-🌐 Web Development Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    🌐 Web Development Skills
+    🌐 Web Development Skills<br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
   </a>
 </p>
@@ -11,7 +10,7 @@ I'm jyraisftw, a web developer, and on this GitHub profile, I develop various pr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    🌐 Ready to use Skills
+    🌐 Ready to use Skills<br>
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
@@ -19,7 +18,7 @@ I'm jyraisftw, a web developer, and on this GitHub profile, I develop various pr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    🚀 Programming Skills
+    🚀 Programming Skills<br>
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
@@ -28,7 +27,7 @@ I'm jyraisftw, a web developer, and on this GitHub profile, I develop various pr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    💬 Contact
+    💬 Contact<br>
     <img src="https://skillicons.dev/icons?i=telegram" href="t.me/jyrais"/>
   </a>
 </p>
