@@ -3,27 +3,32 @@ I'm jyraisftw, a web developer, and on this GitHub profile, I develop various pr
 🌐 Web Development Skills
 <p align="center">
   <a href="https://skillicons.dev">
+    🌐 Web Development Skills
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
   </a>
 </p>
-🌐 Ready to use Skills
+
 
 <p align="center">
   <a href="https://skillicons.dev">
+    🌐 Ready to use Skills
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
 
-🚀 Programming Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
+    🚀 Programming Skills
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
 
 
-💬 Contact
-metinolgunyedek@gmail.com
-telegram: jyrais
+<p align="center">
+  <a href="https://skillicons.dev">
+    💬 Contact
+    <img src="https://skillicons.dev/icons?i=telegram" href="t.me/jyrais"/>
+  </a>
+</p>
