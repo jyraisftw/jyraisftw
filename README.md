@@ -1,10 +1,10 @@
 <p align="center">
-I'm jyraisftw, a web developer, and on this GitHub profile, I develop various projects using technologies like HTML, CSS, Tailwind CSS, Bootstrap, and ReactJS. Here are some highlights you can find on my profile:
+I'm jyraisftw, a web developer, and on this GitHub profile, I develop various projects using technologies like HTML, CSS, Tailwind CSS, Bootstrap, and ReactJS. Also i am using python for some bots. I can create any bots(app,website) for you. Here are some highlights you can find on my profile:
 </p>
 
 <p align="center">
     🌐 Web Development Skills<br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,vite" />
   </a>
 </p>
 
@@ -22,7 +22,11 @@ I'm jyraisftw, a web developer, and on this GitHub profile, I develop various pr
   </a>
 </p>
 
-
+<p align="center">
+    📚 Editors<br><br>
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
 
 <p align="center">
     💬 Contact<br><br>
