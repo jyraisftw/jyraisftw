@@ -1,4 +1,6 @@
+<p align="center">
 I'm jyraisftw, a web developer, and on this GitHub profile, I develop various projects using technologies like HTML, CSS, Tailwind CSS, Bootstrap, and ReactJS. Here are some highlights you can find on my profile:
+</p>
 
 <p align="center">
   <br>
