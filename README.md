@@ -28,6 +28,6 @@ I'm jyraisftw, a web developer, and on this GitHub profile, I develop various pr
 <p align="center">
   <br>
     💬 Contact<br><br>
-    <img src="https://skillicons.dev/icons?i=telegram" href="t.me/jyrais"/>
+    <img src="https://skillicons.dev/icons?i=instagram" href="instagram.com/metinnolgn"/>
   </a>
 </p>
