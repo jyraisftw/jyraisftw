@@ -1,1 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,css,html&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  </a>
+</p>
