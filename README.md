@@ -19,14 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/reactjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/js" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/jquery" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/vitejs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/html" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/css" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/tailwind" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/bootstrap" />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyraisftw&show_icons=true&locale=en&layout=compact" alt="jyraisftw" /></p>
