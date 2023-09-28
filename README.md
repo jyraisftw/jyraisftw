@@ -17,11 +17,6 @@
 <a href="https://instagram.com/metinnolgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="metinnolgn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyraisftw&show_icons=true&locale=en&layout=compact" alt="jyraisftw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyraisftw&show_icons=true&locale=en" alt="jyraisftw" /></p>
